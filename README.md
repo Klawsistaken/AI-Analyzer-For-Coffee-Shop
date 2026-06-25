@@ -1,6 +1,6 @@
 # AI-Powered Coffee Customer Analytics & Recommendation System
 
-This project focuses on analyzing customer behavior over a 10-year period to predict future purchases and automate targeted marketing strategies for a coffee business.
+This project focuses on analyzing +250 customer behavior over a 10-year period to predict future purchases and automate targeted marketing strategies for a coffee business.
 
 ## 📊 Features & Data Structure
 
